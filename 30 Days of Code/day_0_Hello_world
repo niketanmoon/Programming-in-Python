@@ -1,0 +1,9 @@
+#Reading the full line using input function in python
+input_string = input()
+
+#Printing a string literal saying "Hello, World."
+
+print("Hello, World.")
+
+#Printing the input string
+print(input_string)
